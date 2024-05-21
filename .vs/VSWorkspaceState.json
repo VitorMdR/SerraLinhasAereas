@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SerraLinhasAereas.Infra.Data",
+    "\\SerraLinhasAereas.Infra.Data\\DAO",
+    "\\SerraLinhasAereas.Infra.Data\\Repository",
+    "\\SerraLinhasAereas.WebApi",
+    "\\SerraLinhasAereas.WebApi\\Controllers",
+    "\\SerreLinhasAereas.Domain",
+    "\\SerreLinhasAereas.Domain\\Entity",
+    "\\SerreLinhasAereas.Domain\\Interface"
+  ],
+  "SelectedNode": "\\SerraLinhasAereas.Infra.Data\\DAO\\ClientesDAO.cs",
+  "PreviewInSolutionExplorer": false
+}

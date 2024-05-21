@@ -1,0 +1,75 @@
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.csproj.AssemblyReference.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.AssemblyInfoInputs.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.AssemblyInfo.cs
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.csproj.CoreCompileInputs.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\appsettings.json
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.exe
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.deps.json
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.runtimeconfig.json
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.runtimeconfig.dev.json
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.pdb
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerreLinhasAereas.Domain.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.pdb
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerreLinhasAereas.Domain.pdb
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\scopedcss\bundle\SerraLinhasAereas.WebApi.styles.css
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\staticwebassets\SerraLinhasAereas.WebApi.StaticWebAssets.Manifest.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.RazorTargetAssemblyInfo.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.csproj.CopyComplete
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\refint\SerraLinhasAereas.WebApi.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.pdb
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.genruntimeconfig.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\ref\SerraLinhasAereas.WebApi.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.exe
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.deps.json
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.runtimeconfig.json
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.runtimeconfig.dev.json
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.WebApi.pdb
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerreLinhasAereas.Domain.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.pdb
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\bin\Debug\net5.0\SerreLinhasAereas.Domain.pdb
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.csproj.AssemblyReference.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.AssemblyInfoInputs.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.AssemblyInfo.cs
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\scopedcss\bundle\SerraLinhasAereas.WebApi.styles.css
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\staticwebassets\SerraLinhasAereas.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.csproj.CopyComplete
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\refint\SerraLinhasAereas.WebApi.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.pdb
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\SerraLinhasAereas.WebApi.genruntimeconfig.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.WebApi\obj\Debug\net5.0\ref\SerraLinhasAereas.WebApi.dll

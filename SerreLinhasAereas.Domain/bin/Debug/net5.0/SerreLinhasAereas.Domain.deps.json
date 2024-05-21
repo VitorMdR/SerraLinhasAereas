@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SerreLinhasAereas.Domain/1.0.0": {
+        "runtime": {
+          "SerreLinhasAereas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SerreLinhasAereas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

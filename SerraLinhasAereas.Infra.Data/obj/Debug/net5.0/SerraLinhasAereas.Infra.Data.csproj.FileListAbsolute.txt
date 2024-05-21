@@ -1,0 +1,30 @@
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.csproj.AssemblyReference.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.AssemblyInfoInputs.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.AssemblyInfo.cs
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.csproj.CoreCompileInputs.cache
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.deps.json
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.pdb
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerreLinhasAereas.Domain.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerreLinhasAereas.Domain.pdb
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.csproj.CopyComplete
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\refint\SerraLinhasAereas.Infra.Data.dll
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.pdb
+E:\Trop Tech\Trop Tech módulo 02\JairoNamiki\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\ref\SerraLinhasAereas.Infra.Data.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\refint\SerraLinhasAereas.Infra.Data.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.pdb
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.deps.json
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.pdb
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerreLinhasAereas.Domain.dll
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerreLinhasAereas.Domain.pdb
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.AssemblyInfo.cs
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.csproj.CopyComplete
+C:\Users\Vítor\Desktop\SerraLinhasAereasSolution\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\ref\SerraLinhasAereas.Infra.Data.dll
